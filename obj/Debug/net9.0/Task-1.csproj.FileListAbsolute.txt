@@ -1,0 +1,14 @@
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\bin\Debug\net9.0\Task-1.exe
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\bin\Debug\net9.0\Task-1.deps.json
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\bin\Debug\net9.0\Task-1.runtimeconfig.json
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\bin\Debug\net9.0\Task-1.dll
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\bin\Debug\net9.0\Task-1.pdb
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.AssemblyInfoInputs.cache
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.AssemblyInfo.cs
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.csproj.CoreCompileInputs.cache
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.dll
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\refint\Task-1.dll
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.pdb
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\Task-1.genruntimeconfig.cache
+C:\Users\xkill\Documents\dotnet 516\Task-1\Task-1\obj\Debug\net9.0\ref\Task-1.dll
